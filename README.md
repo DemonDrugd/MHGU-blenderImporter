@@ -5,8 +5,8 @@ This is a Blender add-on used for importing `.mod` model files and `.lmt` animat
 ---
 
 ## Acknowledgements
-* Thanks to **Handburger** for creating the **SaladSoftware** tools and writing the MHGU model and material modification tutorials. Before using this add-on, you must refer to Handburger's tutorials to unpack the MHGU model files and convert the `.tex` texture files into `.png` format.
-* Thanks to **Lukas Cone** for creating the **MT Framework tools**. Most features in this add-on reference that tool. If you edit models using 3DS MAX instead of Blender, it is recommended to use the original MT Framework tools.
+* Thanks to **Handburger** for creating the [SaladSoftware](https://gamebanana.com/tools/19745) tools and writing the MHGU [model](https://gamebanana.com/tuts/18644) and [texture](https://gamebanana.com/tuts/18636) modification tutorials. Before using this add-on, you must refer to Handburger's tutorials to unpack the MHGU model files and convert the `.tex` texture files into `.png` format.
+* Thanks to **Lukas Cone** for creating the [MT Framework tools](https://lukascone.wordpress.com/2017/06/18/mt-framework-tools/). Most features in this add-on reference that tool. If you edit models using 3DS MAX instead of Blender, it is recommended to use the original MT Framework tools.
 * This add-on was completed with the full assistance of **Google Antigravity**. Code comments may contain Chinese. Thanks to Google.
 
 ---
@@ -167,15 +167,15 @@ The underlying engine uses highly complex floating-point difference and compress
 ---
 ---
 
-# MHGU Blender Importer (中文版)
+# MHGU Blender Importer
 
 这是一个用于导入怪物猎人GU/XX的 `.mod` 模型文件和 `.lmt` 动画文件的 Blender 插件。
 
 ---
 
 ## 致谢
-* 感谢 **Handburger** 制作的 **SaladSoftware** 工具，以及他编写的 MHGU 模型和材质修改教程。在使用本插件之前，必须先参考 Handburger 编写的教程，完成 MHGU 的模型文件解包，并将 `.tex` 贴图文件转换成 `.png` 格式。
-* 感谢 **Lukas Cone** 制作的 **MT Framework tools**。本插件中的大部分功能都参考了该插件。如果您使用 3DS MAX 编辑模型而不是 Blender，推荐您使用原版的 MT Framework tools。
+* 感谢 **Handburger** 制作的  [SaladSoftware](https://gamebanana.com/tools/19745)  工具，以及他编写的 MHGU  [模型](https://gamebanana.com/tuts/18644) 和[材质](https://gamebanana.com/tuts/18636)修改教程。在使用本插件之前，必须先参考 Handburger 编写的教程，完成 MHGU 的模型文件解包，并将 `.tex` 贴图文件转换成 `.png` 格式。
+* 感谢 **Lukas Cone** 制作的  [MT Framework tools](https://lukascone.wordpress.com/2017/06/18/mt-framework-tools/)。本插件中的大部分功能都参考了该插件。如果您使用 3DS MAX 编辑模型而不是 Blender，推荐您使用原版的 MT Framework tools。
 * 本插件是在 **Google Antigravity** 的全程帮助下完成的，代码注释可能使用了中文。感谢谷歌公司。
 
 ---
